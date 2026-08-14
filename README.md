@@ -96,4 +96,16 @@ The Power BI dashboard summarizes the analytical results and provides
 an interactive management view of OEE, Availability, Performance,
 Quality, downtime and WIP.
 
+## Improvement Opportunities
+
+Based on the analysis, the following areas were identified for further
+investigation:
+
+| Process | Issue | Improvement Direction |
+|---|---|---|
+| Cell Assembly | Electrical downtime | Equipment reliability / maintenance analysis |
+| Mixing | Low Performance | Material availability and process analysis |
+| Slitting | Low Performance | Setup/changeover analysis |
+| Drying | WIP + Performance | Process/alignment investigation |
+| Formation | Quality holds | Quality-loss investigation |
 
