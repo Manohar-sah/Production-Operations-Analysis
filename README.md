@@ -59,3 +59,41 @@ The original datasets are retained in the `data/raw` folder for transparency.
 ### Cleaned Data
 
 The cleaned datasets used for subsequent analysis are available in `data/cleaned`.
+
+## Data Quality Analysis
+
+The raw datasets were evaluated before performing KPI calculations.
+
+The analysis included:
+
+- Missing-value checks
+- Duplicate checks
+- Invalid-value checks
+- Data consistency checks
+- Range validation
+- KPI validation
+
+The detailed findings are available in:
+
+## Production KPI
+Production KPIs were calculated to establish the baseline production performance.
+
+## Downtime Analysis
+Downtime was analyzed by machine, process, category and recorded downtime reason to identify the major sources of production loss.
+
+## WIP Analysis
+WIP was analyzed using average, maximum and minimum WIP and time-based trends to identify potential flow constraints.
+
+## Current-State Value Stream Map
+
+The Current-State VSM integrates the production flow, WIP and process
+performance information to provide a system-level view of the current
+production state.
+
+## Power BI Dashboard
+
+The Power BI dashboard summarizes the analytical results and provides
+an interactive management view of OEE, Availability, Performance,
+Quality, downtime and WIP.
+
+
